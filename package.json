@@ -12,5 +12,8 @@
   "devDependencies": {
     "@types/node": "^10.9.4",
     "tslint": "^5.11.0"
+  },
+  "dependencies": {
+    "play-sound": "^1.1.2"
   }
 }
